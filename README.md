@@ -2,7 +2,7 @@
 
 This repository contains my code for various lab tasks, wherever coding was required.
 
-There are four lab groups:
+There are three lab groups:
 
 1- Digital System Design
 
